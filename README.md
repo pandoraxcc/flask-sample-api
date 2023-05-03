@@ -2,7 +2,7 @@
 
 ## Description
 
-My first sample API on Flask. You can add cities, retrieve their geolocation, filter nearby cities based on the distance using Great-circle_distance formula.
+My first sample API on Flask. You can add cities, retrieve their geolocation, filter nearby cities based on the distance using Great circle distance formula.
 
 ## Setting up the API
 
