@@ -6,11 +6,11 @@ My first sample API on Flask. You can add cities, retrieve their geolocation, fi
 
 ## Setting up the API
 
-1.Install the requirements: pip3 install requirements.txt under your enviroment
-2.Get the API key from https://openweathermap.org/api
-3.Insert the key to key.py
-4.Run the file models.py to initialize the database
-5.Run the server python3 main.py
+1.Install the requirements: pip3 install requirements.txt under your enviroment<br>
+2.Get the API key from https://openweathermap.org/api<br>
+3.Insert the key to key.py<br>
+4.Run the file models.py to initialize the database<br>
+5.Run the server python3 main.py<br>
 6.Test with tools like POSTMAN or use requests library to send the requests from your terminal
 
 ## Usage
